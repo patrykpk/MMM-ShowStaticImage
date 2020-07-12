@@ -1,2 +1,3 @@
 # MMM-ShowStaticImage
-MagicMirror² Module for displaying a static image.
+
+Module for [MagicMirror²](https://magicmirror.builders/)
